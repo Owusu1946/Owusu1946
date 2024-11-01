@@ -57,8 +57,6 @@ Developed a full-stack solution for enterprise task management with real-time co
 I'm always interested in challenging projects and collaborations. Whether you're looking to build something amazing or just want to chat about tech, reach out!
 
 - 📧 Email: owusukenneth77@gmail.com
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
-- 📝 Blog: [Medium/Dev.to profile](https://dev.to/your-profile)
 
 ---
 
